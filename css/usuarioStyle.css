@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    color: #12A277;
+    font-size: 70px;
+    font-family: Times New Roman; 
+}
+
+body{
+	background-image: url('../img/fondo.png');
+	background-size: cover;
+}
